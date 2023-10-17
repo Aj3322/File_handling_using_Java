@@ -18,8 +18,12 @@ Welcome to the Java Utility Programs Repository! This repository contains a coll
 6. **abc.txt**: A sample text file that you can use for testing the CharCount and WordCount programs.
 
 7. **aj.txt**: Another sample text file for further testing the CharCount and WordCount programs.
-
-8. **copyfile.java**: A Java program for copying files, providing file management capabilities.
+ 
+8. **ReadAFile.java** - (Updated yesterday) - Java program for reading a file.
+ 
+9. **WriteAFile.java** - (Created yesterday) - Java program for writing to a file.
+ 
+10. **copyfile.java**: A Java program for copying files, providing file management capabilities.
 
 ## Usage
 
